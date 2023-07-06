@@ -1,0 +1,60 @@
+body{
+    font-family: verdana;
+    
+}
+ .color-btn-header{
+    background-color: rgb(255, 112, 1);
+}
+container{
+    padding: 3px;
+    
+    
+    
+    
+}
+.color-btn-card{
+    color: white;
+    font-weight: bold;
+}
+.price-shop{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: stretch;
+
+}
+h5{
+    font-weight: bold;
+}
+h5:hover{
+    color:rgb(255, 112, 1);
+}
+h4{
+    color:rgb(255, 112, 1);
+    font-weight: bold;
+    
+}
+h4:hover{
+    color: black;
+}
+/*.modal{
+    display: flex;
+    flex-direction: column;
+    /*flex-wrap: wrap;
+    justify-self: self-end;
+    flex-direction: row;
+    
+}*/
+.color-btn-modal{
+    background-color: rgb(255, 217, 0);
+
+}
+.botones.modal{
+    display: flex;
+    justify-content:center;
+
+}
+
+
+    
+
