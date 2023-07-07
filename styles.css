@@ -1,20 +1,22 @@
 body{
     font-family: verdana;
+   
     
 }
  .color-btn-header{
     background-color: rgb(255, 112, 1);
 }
-container{
-    padding: 3px;
-    
-    
-    
-    
+.naruto{
+    color:  rgb(255, 112, 1);
+    font-weight:bold
 }
 .color-btn-card{
     color: white;
-    font-weight: bold;
+    
+}
+.cards-container{
+    background-position: center;
+    
 }
 .price-shop{
     display: flex;
@@ -37,6 +39,7 @@ h4{
 h4:hover{
     color: black;
 }
+
 /*.modal{
     display: flex;
     flex-direction: column;
@@ -54,7 +57,9 @@ h4:hover{
     justify-content:center;
 
 }
-
+.personajes{
+    text-align: center;
+}
 
     
 
